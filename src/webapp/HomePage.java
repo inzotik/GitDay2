@@ -4,6 +4,6 @@ public class HomePage {
 
     // setting up homepage
     // nav menu
-    //moe things for the homepage
+    //more things for the homepage
     //logo
 }
